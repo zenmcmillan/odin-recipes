@@ -1,1 +1,2 @@
 # odin-recipes
+<!--This is a project that I'm doing for The Odin Project course. Not sure what it is about just yet since they don't explain it until later down the page, but they asked me to take notes so here I am. Remember the goal is to move to London. You will get a skilled worker visa from a company in London by learning this stuff-->
