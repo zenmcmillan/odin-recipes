@@ -1,0 +1,37 @@
+.header {
+    text-align: center;
+    font-family: brush script;
+}
+
+body {
+    background-color: #859d95;
+}
+
+ul {
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.recipe-titles {
+    text-align: center;
+    font-size: 42px; 
+}
+
+.jerk-chicken {
+    background-color: #c45a4c;
+    text-align: center;
+    
+}
+
+.jamaican-chicken-patty {
+    background-color: #7f7a85;
+    
+}
+
+.macaroni-and-cheese {
+    background-color: #c45a4c;  
+}
+    
+
+
+
